@@ -33,6 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
+            ["@heroicons/react", "virtual:4c00b7b8863c7d089d5496d595deaaed7a72e89b7de2677f39197158f0dd7f869176846c52e1dc9796afc1eff4bf66a36c73d2d95285662eade9b286d3c54597#npm:1.0.6"],\
             ["autoprefixer", "virtual:4c00b7b8863c7d089d5496d595deaaed7a72e89b7de2677f39197158f0dd7f869176846c52e1dc9796afc1eff4bf66a36c73d2d95285662eade9b286d3c54597#npm:10.4.8"],\
             ["axios", "npm:0.27.2"],\
             ["eslint", "npm:8.22.0"],\
@@ -96,6 +97,28 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@gar-promisify-npm-1.1.3-ac1a325862-4059f790e2.zip/node_modules/@gar/promisify/",\
           "packageDependencies": [\
             ["@gar/promisify", "npm:1.1.3"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["@heroicons/react", [\
+        ["npm:1.0.6", {\
+          "packageLocation": "./.yarn/cache/@heroicons-react-npm-1.0.6-51f92ebbfd-372b1eda3c.zip/node_modules/@heroicons/react/",\
+          "packageDependencies": [\
+            ["@heroicons/react", "npm:1.0.6"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:4c00b7b8863c7d089d5496d595deaaed7a72e89b7de2677f39197158f0dd7f869176846c52e1dc9796afc1eff4bf66a36c73d2d95285662eade9b286d3c54597#npm:1.0.6", {\
+          "packageLocation": "./.yarn/__virtual__/@heroicons-react-virtual-883713fc1b/0/cache/@heroicons-react-npm-1.0.6-51f92ebbfd-372b1eda3c.zip/node_modules/@heroicons/react/",\
+          "packageDependencies": [\
+            ["@heroicons/react", "virtual:4c00b7b8863c7d089d5496d595deaaed7a72e89b7de2677f39197158f0dd7f869176846c52e1dc9796afc1eff4bf66a36c73d2d95285662eade9b286d3c54597#npm:1.0.6"],\
+            ["@types/react", null],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4059,6 +4082,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["sociable", "workspace:."],\
+            ["@heroicons/react", "virtual:4c00b7b8863c7d089d5496d595deaaed7a72e89b7de2677f39197158f0dd7f869176846c52e1dc9796afc1eff4bf66a36c73d2d95285662eade9b286d3c54597#npm:1.0.6"],\
             ["autoprefixer", "virtual:4c00b7b8863c7d089d5496d595deaaed7a72e89b7de2677f39197158f0dd7f869176846c52e1dc9796afc1eff4bf66a36c73d2d95285662eade9b286d3c54597#npm:10.4.8"],\
             ["axios", "npm:0.27.2"],\
             ["eslint", "npm:8.22.0"],\
