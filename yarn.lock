@@ -1541,7 +1541,7 @@ __metadata:
 
 "fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -2055,9 +2055,9 @@ __metadata:
   linkType: hard
 
 "jose@npm:^4.1.4, jose@npm:^4.3.7":
-  version: 4.9.0
-  resolution: "jose@npm:4.9.0"
-  checksum: fc1e71f49327206eb58b23a2c5d463c3b1c84cd60ba2b8f8ab74db4a96ec079915fc71bc8b7d57d77b25d1426cd02eb218bf426738e803ab1a52adc1d96d0912
+  version: 4.15.5
+  resolution: "jose@npm:4.15.5"
+  checksum: 7dde76447c7707bd4b448f914b216f3858e701aa83f00447434252461af5b9e159dcbffb88badea3f9616739526763581267c9560622f0a058df8d68c86d7f79
   languageName: node
   linkType: hard
 
@@ -3130,7 +3130,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.1.7#~builtin<compat/resolve>, resolve@patch:resolve@^1.20.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.22.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.22.1#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
@@ -3143,7 +3143,7 @@ __metadata:
 
 "resolve@patch:resolve@^2.0.0-next.3#~builtin<compat/resolve>":
   version: 2.0.0-next.4
-  resolution: "resolve@patch:resolve@npm%3A2.0.0-next.4#~builtin<compat/resolve>::version=2.0.0-next.4&hash=07638b"
+  resolution: "resolve@patch:resolve@npm%3A2.0.0-next.4#~builtin<compat/resolve>::version=2.0.0-next.4&hash=c3c19d"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
